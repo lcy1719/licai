@@ -1,6 +1,6 @@
 > **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！代码介绍图片在最下面！！！滑轮往下拉查看效果图！！！！！！！！！！**
-## 源码获取：
-![1734923090201](https://github.com/user-attachments/assets/9f68fbce-dd19-4d24-8a52-08827336029d)
+## 源码获取（4.9米）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/728a9cbf-c99d-4183-8970-3884ed6287c1)
 
 理财管理系统 | Springboot ｜HTML｜Java｜web网站
 
